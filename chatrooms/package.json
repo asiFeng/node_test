@@ -1,0 +1,12 @@
+{
+  "name": "chatromms",
+  "version": "0.0.1",
+  "description": "Minimalist multiroom chat server",
+  "main": "index.js",
+  "author": "asiFeng",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.4.4",
+    "socket.io": "^2.3.0"
+  }
+}
